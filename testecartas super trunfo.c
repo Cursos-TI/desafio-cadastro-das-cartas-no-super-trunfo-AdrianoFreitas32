@@ -2,9 +2,11 @@
 
     int main() {
 
-        printf("             cartas super trunfo! \n");
+        printf("             cartas super trunfo!\n");
+
 
         printf("\n                -Carta 01-\n");
+
         printf("Codigo da carta: 01MT\n");           
         printf("estado: MT\n");
         printf("Nmome da cidade: tangara da serra\n");
@@ -14,7 +16,8 @@
         printf("Numero de pontos turisticos: 5\n");
 
 
-        printf("\n                  Carta 02\n");
+        printf("\n                -Carta 02-\n");
+
         printf("Codigo da carta: 02MS\n");           
         printf("estado: MS\n");
         printf("Nmome da cidade: tres lagos\n");
